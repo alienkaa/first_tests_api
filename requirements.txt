@@ -1,0 +1,7 @@
+pip~=23.3.2
+attrs~=23.2.0
+wheel~=0.42.0
+setuptools~=69.0.3
+packaging~=23.2
+typing_extensions~=4.9.0
+requests~=2.31.0
